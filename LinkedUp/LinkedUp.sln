@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedUp.UI", "LinkedUp.UI\LinkedUp.UI.csproj", "{B34C9D45-6A74-4945-8ACB-25CCD52AC2F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34C9D45-6A74-4945-8ACB-25CCD52AC2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34C9D45-6A74-4945-8ACB-25CCD52AC2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34C9D45-6A74-4945-8ACB-25CCD52AC2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34C9D45-6A74-4945-8ACB-25CCD52AC2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92C0EBA0-A21E-4CB8-A2DE-92561A0DF228}
+	EndGlobalSection
+EndGlobal
